@@ -1,4 +1,4 @@
-var bitcore = require('bitcore-lib');
-bitcore.P2P = require('./lib');
+var gltcore = require('gltcore-lib');
+gltcore.P2P = require('./lib');
 
-module.exports = bitcore.P2P;
+module.exports = gltcore.P2P;
